@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soopul
+👋 Hi, I’m @soopul
 
 <!---
 soopul/soopul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
